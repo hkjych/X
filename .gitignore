@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+.trae/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary
+*.bak
+*.tmp
+temp_repo*/
+runtime/
+sing-box
+mihomo
+
+# Test/coverage
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Generated data (keep repo clean)
+.gist_id
+sub/.gist_id
