@@ -12668,3 +12668,12 @@ https://starlink.aliyundeepsearch.sbs/s/8a4769317cbb5f9e4a248068c89c4963	request
 
 === 2026-11-11 06:43:58 - 失效订阅 (1 个) ===
 https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview	http_401
+
+=== 2026-11-11 19:43:28 - 失效订阅 (4 个) ===
+https://jikun.zmxoo.xyz/subapi?token=free_T6pR9vK3mX8qL2n&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3	http_403
+https://jikun.zmxoo.xyz/subapi?token=free_T6pR9vK3mX8qL2n&amp;placeholder=1	http_403
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/ss.txt	http_404
+https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.yaml	http_404
+
+=== 2026-11-11 19:43:56 - 失效订阅 (1 个) ===
+https://8bydy1.baoyundy.com/baoyun/48cf83d2232ffd6ec1ba468fc3015c03	http_403
