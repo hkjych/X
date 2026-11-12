@@ -12692,3 +12692,18 @@ https://sgp.beijingshi.asia:8001/fdaitwqpxt1jqzxc/yyjwxkvgkt6plrv2	http_404
 https://apirule.fastfly.qzz.io/s/f8e623fd2d88896ef6a4da0991ca1e5a	http_400
 https://inference.dahl.global/v1	http_404
 https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/configs.txt	http_404
+
+=== 2026-11-12 20:17:06 - 失效订阅 (10 个) ===
+https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_minimax_h3_image_edit.json	http_429
+https://apps.apple.com/us/app/logic-pro-make-music/id1615087040	request_failed
+http://%E7%BB%AD%E8%B4%B9%E5%85%A5%E5%8F%A3%EF%BC%9Abefriends.help/	request_failed
+https://jikun.zmxoo.xyz/subapi?token=free_K9mP2xQ7vL4tR8n&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3	http_403
+https://jikun.zmxoo.xyz/subapi?token=free_K9mP2xQ7vL4tR8n&amp;placeholder=1	http_403
+https://url.v1.mk/sub?target=clash&amp;url=https%3A%2F%2Fupdate.glados-config.com%2Fmihomo%2F799145%2F65db849%2F308751%2Fglados.yaml&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fcmliu%2FACL4SSR%2Fmain%2FClash%2Fconfig%2FACL4SSR_Online.ini&amp;emoji=true&amp;list=false&amp;xudp=false&amp;udp=false&amp;tfo=false&amp;expand=true&amp;scv=false&amp;fdn=false&amp;new_name=true	http_400
+https://sjc.hief.store/api/v1/client/subscribe?token=a78a7493778548000977cdd29737374d	http_403
+https://apps.apple.com/us/app/hidden-camera-detector/id532882360	request_failed
+https://intivesearch.com/privacy?dmn=merlinblog.xyz&testId=30	http_401
+https://intivesearch.com/terms?dmn=merlinblog.xyz&testId=30	http_401
+
+=== 2026-11-12 20:17:48 - 失效订阅 (1 个) ===
+https://sub.aoyou.stream/s/8ce79ae6fc625e331fa0a39a20d77bc8	http_403
