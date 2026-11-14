@@ -12746,3 +12746,12 @@ http://%E5%85%8D%E8%B4%B9VPN%EF%BC%9Att.vg/FJOE2Mm	request_failed
 https://api.v1.mk/sub?target=clash&amp;url=https%3A%2F%2Fscyydsbgw.xm-pass.one%2Ffeed%2F13950ca49a6edcf2fffe26b0ba8ab46f&amp;insert=false&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&amp;diydns=true&amp;emoji=true&amp;list=false&amp;xudp=false&amp;udp=true&amp;tfo=false&amp;expand=true&amp;scv=true&amp;fdn=false&amp;new_name=true&amp;diyua=clash.meta%2F1.19.0	http_400
 https://gbhackers.com/arcticrat-malware-attack/	http_520
 https://apps.apple.com/us/app/lantern-fast-secure-vpn/id1457872372	request_failed
+
+=== 2026-11-14 10:00:21 - 失效订阅 (7 个) ===
+https://openai.com/policies/chatgpt-wallet-terms/	http_403
+https://openai.com/daybreak/red-team/	http_403
+https://openai.com/daybreak/red-team	http_403
+https://help.openai.com/en/articles/20001654-making-purchases-with-chatgpt-wallet	http_403
+https://openai.com/daybreak/defense-factory/	http_403
+https://jikun.zmxoo.xyz/subapi?token=free_V2svfndDd0xMWGb&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3	http_403
+https://paste.c-net.org/WormsViktor	request_failed
