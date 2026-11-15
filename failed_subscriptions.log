@@ -12801,3 +12801,23 @@ http://irsc.ut.ac.ir/index.php?lang=fa	request_failed
 === 2026-11-15 19:49:23 - 失效订阅 (2 个) ===
 https://sjc.hief.store/api/v1/client/subscribe?token=b30dad4bd5475bdb2482317501e24d9e	http_403
 https://sjc.hief.store/api/v1/client/subscribe?token=c35be70a3b3274b97650ea5bb0cea865	http_403
+
+=== 2026-11-16 04:52:23 - 失效订阅 (18 个) ===
+https://nodebuf.com/node-sub/cb3516bd5d01aafd320ae66d1698dca4eeeb5413e57d832ddbd9061c81ede470/mihomo	http_410
+https://nodebuf.com/node-sub/80f00307bab2aadb36ab7262f7e91f74997f6fead5ac17e4e54f4e9acb282b5e/singbox	http_410
+https://nodebuf.com/node-sub/46c297f23c9cdf7ba04c64aa8e9187f9a16e1fb6097e30f61b51ae8aa0d5778a/v2ray	http_410
+https://nodebuf.com/node-sub/80f00307bab2aadb36ab7262f7e91f74997f6fead5ac17e4e54f4e9acb282b5e/mihomo	http_410
+https://nodebuf.com/node-sub/94c31dcfbe4fbd237161c6ef4aa5d2872a25d64741a3994e4d07601bb94b2883/singbox	http_410
+https://nodebuf.com/node-sub/3da05ac715547f51833f60cec2fcf7ea90fd0dcf520566d1109d5894533c49d1/v2ray	http_410
+https://nodebuf.com/node-sub/cb3516bd5d01aafd320ae66d1698dca4eeeb5413e57d832ddbd9061c81ede470/v2ray	http_410
+https://nodebuf.com/node-sub/cb3516bd5d01aafd320ae66d1698dca4eeeb5413e57d832ddbd9061c81ede470/singbox	http_410
+https://nodebuf.com/node-sub/3da05ac715547f51833f60cec2fcf7ea90fd0dcf520566d1109d5894533c49d1/singbox	http_410
+https://nodebuf.com/node-sub/46c297f23c9cdf7ba04c64aa8e9187f9a16e1fb6097e30f61b51ae8aa0d5778a/mihomo	http_410
+https://nodebuf.com/node-sub/3da05ac715547f51833f60cec2fcf7ea90fd0dcf520566d1109d5894533c49d1/mihomo	http_410
+https://nodebuf.com/node-sub/80f00307bab2aadb36ab7262f7e91f74997f6fead5ac17e4e54f4e9acb282b5e/v2ray	http_410
+https://nodebuf.com/node-sub/94c31dcfbe4fbd237161c6ef4aa5d2872a25d64741a3994e4d07601bb94b2883/v2ray	http_410
+https://nodebuf.com/node-sub/94c31dcfbe4fbd237161c6ef4aa5d2872a25d64741a3994e4d07601bb94b2883/mihomo	http_410
+https://nodebuf.com/node-sub/46c297f23c9cdf7ba04c64aa8e9187f9a16e1fb6097e30f61b51ae8aa0d5778a/singbox	http_410
+http://Perplexity.ai/	http_403
+https://www.wwnet.top/#/register?code=DPmGE8NX	request_failed
+https://apleoidjux.shop/fa/affiliates?bt	http_403
