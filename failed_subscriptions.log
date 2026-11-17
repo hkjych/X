@@ -12858,3 +12858,15 @@ http://tizi.yanrupeng.cn/	request_failed
 https://sub.chy11.cc/chy/757ff07e80beec4334d33aa754183346	request_failed
 https://fakeit.receivefreesms.co.uk/c/de/	request_failed
 https://www.toyota.com.cn/mediacenter/show.php?newsid=5261	request_failed
+
+=== 2026-11-18 07:24:17 - 失效订阅 (6 个) ===
+https://feed.itsfoss.com/link/24361/17526232/nextcloud-office-desktop-launched	http_403
+https://xn--9kqs1lo79d.com/#/register?code=ilxC2SGO	http_403
+https://cdn1.telesco.pe/file/D1QCrOqtXyHN9cETCnnyF6AOHC292c_y49qFbZd7dEqB-Dab4cVoBZpIf3eeLENsGgpbB7SCRXCxtrhIfrXrrckFCfOph_w3HC6KIpiHs4Ou3gskUW2Zb1CWOxGwwV6SBNvBupXTfC1rPPR6QP9PJGjEEc5TtYIQzXDKNTAX8qBhawV0ipvkRLUOnEZzzFCfMQHvdwoxqiT_tEOkGpcW1UNB_eXRZVV4giLdu5JwRdDB7d4RxSDQ4fwHo0vDPAzojr921V4nAdaAZ9rBgT05Tg-rhV2KSGCtD5uWjeZF1cMHc2ejQFHrhVJa_GsBM64y0Ai9QADJBkiJVgB_sPZ-HA	http_502
+http://87.248.155.229:8119/#%40proxy_kafee%20	request_failed
+http://62.60.136.230:10808/#%40proxy_kafee%20	http_400
+http://188.136.197.31:10808/#%40proxy_kafee%20	http_400
+
+=== 2026-11-18 07:24:47 - 失效订阅 (2 个) ===
+https://xjj.zzxi.de/79073de0eba1efcd8a39ef986ff5fcc3	request_failed
+https://yy.77777.bond/c/sSEpDhL	request_failed
