@@ -12841,3 +12841,12 @@ https://api.starlink.fan/register.php	request_failed
 
 === 2026-11-16 20:31:01 - 失效订阅 (1 个) ===
 https://399dd33c.ghelper.me/subs/clash/af106548399dd33c6e1988ae9331068b	http_403
+
+=== 2026-11-17 08:01:00 - 失效订阅 (7 个) ===
+https://youtu.be/LuUZzuyoR0A	http_429
+https://www.youtube.com/watch?v=xaHoRy9PqmA	http_429
+https://youtu.be/sR1LFl8iJZk	http_429
+https://wgtunnel.com/	http_526
+https://apleoidjux.shop/fa/affiliates?b	http_403
+http://0.4.9.17/	request_failed
+https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/yudou66.txt	http_404
