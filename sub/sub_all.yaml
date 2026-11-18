@@ -21,7 +21,6 @@ clash订阅:
 - https://blog.ermao.net/sub/unreachable/clash/ermao.net
 - https://c2-5.66666.bond/c/K4ySQyZ
 - https://cdn.tlsa.top/link/Bj4oyKPSkS0JSADgEuEhUcwOzFwA5cV0y2AL?clash=1
-- https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
 - https://clash.theconsole.top/greenhub/sub/clash
 - https://ctp.ct8.pl/9002.yaml
 - https://dns.1111988.xyz
@@ -191,11 +190,12 @@ clash订阅:
 - https://nodebuf.com/files/public/cmvrcltpf049zy95wwwzlckvx/download
 - https://nodebuf.com/node-sub/139c9c68bf4799251212301ac69890056c90efccdafbbcc3f51a4ed41c9c3109/mihomo
 - https://nodebuf.com/node-sub/3a92f10ffe211626066bc2ca3839e7468e68d8416b03f74a8627796833d1bf0b/mihomo
+- https://nodebuf.com/node-sub/7a4a7adda20c6ff24b8aed19cef1c529d6f07dc86c5c867ea7907cc8207691f7/mihomo
 - https://nodebuf.com/node-sub/a5ae81e88a4d8230721c1331eab3a59e928f7e30f389d16c93d25edb745e2359/mihomo
 - https://nodebuf.com/node-sub/cd44d19ceb21a80ff78f084d57d298c0af7544cd64a70e8c4228926e345fbbf5/mihomo
+- https://nodebuf.com/node-sub/d9725ab7525964726a72194ef3c973407684dae62def340d16f48e81f3e44495/mihomo
 - https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/clash.yaml
 - https://raw.githubusercontent.com/69z1zfw2fly/fly/main/2.yaml
-- https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
 - https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc3.yaml
 - https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 - https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/winformClash.yaml
@@ -295,7 +295,6 @@ v2订阅:
 - https://jiasu.one/api/v1/client/subscribe?token=7ea72eab53a9cbc33636f00b99df330f
 - https://jj.d6p.ccwu.cc/x/cFHXI6L
 - https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
-- https://leviko-teraidery.ir:443/sub/QNXskFjnLKfQhuxVBsbl0KNtqjaPAjwE5xQI
 - https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
 - https://lydy1.lydyylch.com:8888/liyun/daf91edd7bf91a541d7abdce4f5db191
 - https://niaodi.top/niao?token=8cf28a28d8ed739b8e9bc5489a73a75b
@@ -396,6 +395,7 @@ v2订阅:
 - https://raw.githubusercontent.com/Strongmiao168/v2ray/main/1203
 - https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/hysteria2
 - https://raw.githubusercontent.com/Tenerome/v2ray/main/vmess.txt
+- https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
 - https://raw.githubusercontent.com/ZywChannel/free/main/sub
 - https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt
 - https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
@@ -451,6 +451,7 @@ v2订阅:
 - https://sub.tianjiyun.org/s/049eede8f2188d120471bf871c5f80c8#CF-edge.nianyi.de5.net:443
 - https://sub.tianjiyun.org/s/a8626cc3681866de101634452d3e3e89
 - https://sub03.dnsct.dpdns.org/dayu2028?token=461c8d8e07154e064963eab519d3d4ae
+- https://sub1.aoyou.stream/s/07d491e0091a6b01214c86bf7d072042
 - https://sub1.gsafevpn.com/957baaca8fc/12e09c2487e71cc3c27daf22ebeec919
 - https://sub1.gsafevpn.com/957baaca8fc/4867ffd8c8d6bccd6b6f4d70b2d25d7c
 - https://sub1.gsafevpn.com/957baaca8fc/cc689ef1d6e8f2bdce720df54353c89b
@@ -478,19 +479,19 @@ v2订阅:
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66
 - 可用流量:101373.0 GB                    https://sub.femboy.us.ci/?url=freenodes
-- 可用流量:1377024.47 GB                    https://leviko-teraidery.ir:443/sub/QNXskFjnLKfQhuxVBsbl0KNtqjaPAjwE5xQI
-- 可用流量:1543.4 GB                    https://ys.jiedianxielou.workers.dev:443
+- 可用流量:1804.26 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 - 可用流量:200.0 GB                    https://update.glados-config.com/mihomo/684175/46bf72f/70852/glados.yaml
 - 可用流量:2048.0 GB                    https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-- 可用流量:311.57 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- 可用流量:481.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
-- 可用流量:481.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
-- 可用流量:481.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
-- 可用流量:481.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
-- 可用流量:481.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG.proxyshareCN
-- 可用流量:481.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
-- 可用流量:481.82 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
-- 可用流量:49.93 GB                    https://sub.tianjiyun.org/s/049eede8f2188d120471bf871c5f80c8#CF-edge.nianyi.de5.net:443
+- 可用流量:354.74 GB                    https://ys.jiedianxielou.workers.dev:443
+- 可用流量:413.96 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
+- 可用流量:413.96 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
+- 可用流量:413.96 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
+- 可用流量:413.96 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd#
+- 可用流量:413.96 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG.proxyshareCN
+- 可用流量:413.96 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
+- 可用流量:413.96 GB                    https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
+- 可用流量:49.79 GB                    https://sub.tianjiyun.org/s/049eede8f2188d120471bf871c5f80c8#CF-edge.nianyi.de5.net:443
+- 可用流量:50.0 GB                    https://sub.tianjiyun.org/s/a8626cc3681866de101634452d3e3e89
 机场订阅:
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
@@ -500,12 +501,12 @@ v2订阅:
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=TG_proxyshareCN
 - https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
 - https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-- https://leviko-teraidery.ir:443/sub/QNXskFjnLKfQhuxVBsbl0KNtqjaPAjwE5xQI
 - https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 - https://sub.femboy.us.ci/?url=freenodes
 - https://sub.shadowproxy66.workers.dev/sub/736218dc-3cdf-4e93-bb5b-1d726418e43e#ShadowProxy66
 - https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66
 - https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66
 - https://sub.tianjiyun.org/s/049eede8f2188d120471bf871c5f80c8#CF-edge.nianyi.de5.net:443
+- https://sub.tianjiyun.org/s/a8626cc3681866de101634452d3e3e89
 - https://update.glados-config.com/mihomo/684175/46bf72f/70852/glados.yaml
 - https://ys.jiedianxielou.workers.dev:443

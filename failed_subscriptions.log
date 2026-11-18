@@ -12870,3 +12870,13 @@ http://188.136.197.31:10808/#%40proxy_kafee%20	http_400
 === 2026-11-18 07:24:47 - 失效订阅 (2 个) ===
 https://xjj.zzxi.de/79073de0eba1efcd8a39ef986ff5fcc3	request_failed
 https://yy.77777.bond/c/sSEpDhL	request_failed
+
+=== 2026-11-18 20:45:10 - 失效订阅 (8 个) ===
+https://xiaokun.zmxoo.xyz/subapi?token=free_F7OhV0FJv2QeQAT&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3	http_403
+https://jikun.zmxoo.xyz/subapi?token=free_R7nK4pL9xM2vQ8t&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3	http_403
+https://jikun.zmxoo.xyz/subapi?token=free_R7nK4pL9xM2vQ8t&amp;placeholder=1	http_403
+https://sddf7e85f5a.uohhfbxqmfd5kfnnrpsi5v02owaqdjesmswxnzk0nvuo9qjgzmzg4.eu.cc/UOhhFBXqmFd5KFnnrpSi5v02oWAQ/djEsNTY5LDE3OTQ4MTk4OTM.oUZ5uyPGGU_jDHWXsSBMhWfjIiTQt1VrB7-J_p6MIYk	http_403
+https://my.sanjesh.org/login	http_403
+https://leviko-teraidery.ir:443/sub/QNXskFjnLKfQhuxVBsbl0KNtqjaPAjwE5xQI	http_404
+http://my.sanjesh.org/	http_403
+https://raw.githubusercontent.com/vpei/free-node-1/refs/heads/main/res/nod-5.txt	request_failed
