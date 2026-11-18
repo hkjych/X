@@ -12880,3 +12880,9 @@ https://my.sanjesh.org/login	http_403
 https://leviko-teraidery.ir:443/sub/QNXskFjnLKfQhuxVBsbl0KNtqjaPAjwE5xQI	http_404
 http://my.sanjesh.org/	http_403
 https://raw.githubusercontent.com/vpei/free-node-1/refs/heads/main/res/nod-5.txt	request_failed
+
+=== 2026-11-19 06:53:35 - 失效订阅 (4 个) ===
+https://openai.com/index/introducing-gpt-6-2-astra-sol/	http_403
+https://feed.itsfoss.com/link/24361/17523834/zigzag-embroidery-software	http_403
+https://www.yfjc.xyz/api/v1/client/subscribe?token=e1054c0d6d600e4963558b1f5d779608	http_403
+https://www.yfjc.xyz/api/v1/client/subscribe?token=e1054c0d6d600e4963558b1f5d779608#AVToday.io	http_403
