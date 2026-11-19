@@ -12891,3 +12891,32 @@ https://www.yfjc.xyz/api/v1/client/subscribe?token=e1054c0d6d600e4963558b1f5d779
 https://apps.apple.com/us/app/apple-health-ai-study-app/id6800060365	request_failed
 https://xiaokun.zmxoo.xyz/subapi?token=free_H9w4xCYpkLtf5OT&amp;placeholder=8964cpcsb	http_403
 https://jikun.zmxoo.xyz/subapi?token=free_f1d82f367d6daf7&amp;placeholder=8964cpcsb	http_403
+
+=== 2026-11-20 06:57:23 - 失效订阅 (27 个) ===
+https://github.com/NotRexed/Hookshot/releases	http_404
+https://feed.itsfoss.com/link/24361/17528980/voice-typing-tools-linux	http_403
+https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-foundry-details-process-milestones-future-innovation-at-vlsi-symposium.html	http_403
+https://nodebuf.com/node-sub/05f82421dd0575da7a62b41740ac6aadddfdc4c8664e8db491735d3c8b473d40/mihomo	http_410
+https://nodebuf.com/node-sub/05f82421dd0575da7a62b41740ac6aadddfdc4c8664e8db491735d3c8b473d40/singbox	http_410
+https://nodebuf.com/node-sub/139c9c68bf4799251212301ac69890056c90efccdafbbcc3f51a4ed41c9c3109/singbox	http_410
+https://nodebuf.com/node-sub/7a4a7adda20c6ff24b8aed19cef1c529d6f07dc86c5c867ea7907cc8207691f7/v2ray	http_410
+https://nodebuf.com/node-sub/cd44d19ceb21a80ff78f084d57d298c0af7544cd64a70e8c4228926e345fbbf5/singbox	http_410
+https://nodebuf.com/node-sub/cd44d19ceb21a80ff78f084d57d298c0af7544cd64a70e8c4228926e345fbbf5/v2ray	http_410
+https://nodebuf.com/node-sub/7a4a7adda20c6ff24b8aed19cef1c529d6f07dc86c5c867ea7907cc8207691f7/singbox	http_410
+https://nodebuf.com/node-sub/d9725ab7525964726a72194ef3c973407684dae62def340d16f48e81f3e44495/singbox	http_410
+https://nodebuf.com/node-sub/d9725ab7525964726a72194ef3c973407684dae62def340d16f48e81f3e44495/mihomo	http_410
+https://nodebuf.com/node-sub/3a92f10ffe211626066bc2ca3839e7468e68d8416b03f74a8627796833d1bf0b/v2ray	http_410
+https://nodebuf.com/node-sub/3a92f10ffe211626066bc2ca3839e7468e68d8416b03f74a8627796833d1bf0b/singbox	http_410
+https://nodebuf.com/node-sub/d9725ab7525964726a72194ef3c973407684dae62def340d16f48e81f3e44495/v2ray	http_410
+https://nodebuf.com/node-sub/cd44d19ceb21a80ff78f084d57d298c0af7544cd64a70e8c4228926e345fbbf5/mihomo	http_410
+https://nodebuf.com/node-sub/05f82421dd0575da7a62b41740ac6aadddfdc4c8664e8db491735d3c8b473d40/v2ray	http_410
+https://nodebuf.com/node-sub/7a4a7adda20c6ff24b8aed19cef1c529d6f07dc86c5c867ea7907cc8207691f7/mihomo	http_410
+https://nodebuf.com/node-sub/3a92f10ffe211626066bc2ca3839e7468e68d8416b03f74a8627796833d1bf0b/mihomo	http_410
+https://nodebuf.com/node-sub/139c9c68bf4799251212301ac69890056c90efccdafbbcc3f51a4ed41c9c3109/v2ray	http_410
+https://nodebuf.com/node-sub/1b67c7964be58a9806c152a80867f6d4c655f926ddb0ede862eff51705ffc841/singbox	http_410
+https://nodebuf.com/node-sub/a5ae81e88a4d8230721c1331eab3a59e928f7e30f389d16c93d25edb745e2359/singbox	http_410
+https://nodebuf.com/node-sub/1b67c7964be58a9806c152a80867f6d4c655f926ddb0ede862eff51705ffc841/v2ray	http_410
+https://nodebuf.com/node-sub/a5ae81e88a4d8230721c1331eab3a59e928f7e30f389d16c93d25edb745e2359/mihomo	http_410
+https://nodebuf.com/node-sub/a5ae81e88a4d8230721c1331eab3a59e928f7e30f389d16c93d25edb745e2359/v2ray	http_410
+https://nodebuf.com/node-sub/1b67c7964be58a9806c152a80867f6d4c655f926ddb0ede862eff51705ffc841/mihomo	http_410
+https://nodebuf.com/node-sub/139c9c68bf4799251212301ac69890056c90efccdafbbcc3f51a4ed41c9c3109/mihomo	http_410
