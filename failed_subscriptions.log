@@ -12973,3 +12973,19 @@ https://darknyx.com/	request_failed
 
 === 2026-11-22 05:30:37 - 失效订阅 (1 个) ===
 https://jiasu.one/api/v1/client/subscribe?token=7ea72eab53a9cbc33636f00b99df330f	http_403
+
+=== 2026-11-22 09:56:51 - 失效订阅 (14 个) ===
+https://xiaokun.zmxoo.xyz/subapi?token=free_DOfP82Os82Czt57&amp;placeholder=xijinping8964	http_403
+https://jikun.zmxoo.xyz/subapi?token=free_T6wX3nK8pL2vQ9m&amp;placeholder=cpc/ccpSB	http_403
+https://nodebuf.com/node-sub/95d32703acb01998f7853944159c85c362fd1551d24ccd7ab8b0183d5c6f6069/mihomo	http_410
+https://nodebuf.com/node-sub/95d32703acb01998f7853944159c85c362fd1551d24ccd7ab8b0183d5c6f6069/singbox	http_410
+https://nodebuf.com/node-sub/81e657dc937b5334620156bd2e8a0121e822479dd38fcc13ff7b2bf0cdba8815/mihomo	http_410
+https://nodebuf.com/node-sub/81e657dc937b5334620156bd2e8a0121e822479dd38fcc13ff7b2bf0cdba8815/v2ray	http_410
+https://nodebuf.com/node-sub/57d09a4fdd3d401c03e3061534d212a64fd0138da25478d7c94da1987c457c6f/singbox	http_410
+https://nodebuf.com/node-sub/95d32703acb01998f7853944159c85c362fd1551d24ccd7ab8b0183d5c6f6069/v2ray	http_410
+https://nodebuf.com/node-sub/81e657dc937b5334620156bd2e8a0121e822479dd38fcc13ff7b2bf0cdba8815/singbox	http_410
+https://nodebuf.com/node-sub/57d09a4fdd3d401c03e3061534d212a64fd0138da25478d7c94da1987c457c6f/v2ray	http_410
+https://nodebuf.com/node-sub/57d09a4fdd3d401c03e3061534d212a64fd0138da25478d7c94da1987c457c6f/mihomo	http_410
+https://kycnot.me/	http_503
+https://kycnot.me	http_503
+https://apps.apple.com/us/app/fing-network-scanner/id430921107	request_failed
