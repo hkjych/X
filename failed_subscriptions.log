@@ -13012,3 +13012,8 @@ https://otakufans.net/g/fxs	request_failed
 
 === 2026-11-23 10:21:13 - 失效订阅 (1 个) ===
 https://clients.oldconnects.com/sub/djMsMTU5NjcsMTc5NDI0MjMzMA.N6w-TBOWhhW6-6ytVfsDpnWZ2iiBJAjRBl0o2it-7xg	http_404
+
+=== 2026-11-23 22:08:03 - 失效订阅 (3 个) ===
+https://xiaokun.zmxoo.xyz/subapi?token=free_rAC8gNxH0DFx5zg&amp;placeholder=1&amp;placeholder=2&amp;placeholder=3	http_403
+https://45.137.180.216/L?ZG93bmxvYWRDb25maWcuanMvM2NmYjJhMzFjNjI2YjU0ZWQ3OWI0YjQwZjJlOTJhOTM/dGltZXN0YW1wPTE2MDAwOQ==	http_403
+http://app.hiddify.com	request_failed
