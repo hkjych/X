@@ -22,15 +22,15 @@ jobs:
     steps:
 
     - name: 迁出代码
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     - name: 安装Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.x'
 
     - name: 加载缓存
-      uses: actions/cache@v4
+      uses: actions/cache@v5
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
@@ -38,7 +38,7 @@ jobs:
           ${{ runner.os }}-pip-
 
     - name: 缓存代理二进制
-      uses: actions/cache@v4
+      uses: actions/cache@v5
       with:
         path: ~/.cache/smartsub
         key: ${{ runner.os }}-smartsub-binaries-${{ hashFiles('scripts/download_singbox.py', 'scripts/download_mihomo.py') }}
