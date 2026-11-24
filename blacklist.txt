@@ -12022,3 +12022,5 @@ https://opengraph.githubassets.com/496c4bd8a49e88fa7382aaf392e0de4a4e4c11fd23e32
 https://raw.githubusercontent.com/John19187/v2ray-SSR-Clash-Verge-Shadowrocke/refs/heads/main/README.md
 http://www.kubernetes.io/
 https://raw.githubusercontent.com/gtang8/SubCrawler/main/sub/share/all
+https://www.nitter.cf/magicsilicon/status/2123095994770272562
+https://nitter.cf/magicsilicon/status/2123095994770272562
