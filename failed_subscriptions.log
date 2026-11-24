@@ -13041,3 +13041,30 @@ https://nitter.cf/magicsilicon/status/2123095994770272562	http_429
 
 === 2026-11-24 12:41:11 - 失效订阅 (1 个) ===
 http://dafei.de/	request_failed
+
+=== 2026-11-24 22:37:33 - 失效订阅 (7 个) ===
+https://jsjc.cfd/api/v1/client/subscribe?token=977b59b3cebd0afb2400c6a6abc2a6a6	http_403
+https://subscribe-3-emo.xxmad.com/s/38668d174adfef88fa42ade0bc679788	http_403
+https://subscribe-3.xxmad.com/s/38668d174adfef88fa42ade0bc679788?hint=cloudflare-quic.com	http_403
+https://www.npmjs.com/package/foxhole-vpn	http_403
+https://liekaile.mmmoyou.com/#/register?code=FJJajFZL	request_failed
+http://defyxvpn.com/download	request_failed
+https://HotVpn.pro	request_failed
+
+=== 2026-11-24 22:38:04 - 失效订阅 (16 个) ===
+http://dns.1111988.xyz	request_failed
+https://clash.theconsole.top/greenhub/sub/clash	request_failed
+https://ii.d4p.ccwu.cc/c/9fB9loO	request_failed
+https://nodebuf.com/files/public/cmsl1ds2p0tv0r55wf64kbi1e/download	request_failed
+https://nodebuf.com/files/public/cmt0r88ls1ivfdp5w9h04r2kg/download	request_failed
+https://f.www890604.dpdns.org/c/LwzzDUZ	request_failed
+https://nodebuf.com/files/public/cmtyc2k370o6rwg5wwk6e8kui/download	request_failed
+https://nodebuf.com/files/public/cmujrojtl2sp3oh5wl0ii8jbr/download	request_failed
+https://nodebuf.com/files/public/cmvi28qrc00k0y95w2wekpie3/download	request_failed
+https://v2clash.blog/Link/20261031-clash.yaml	request_failed
+https://gy.lzjbaby.com/sub?token=laziji	request_failed
+https://nodebuf.com/files/public/cmtgh2e9q2pvhq75ww4gp9vbq/download	request_failed
+https://nodebuf.com/files/public/cmvax21yse34aoh5wbvyhu98z/download	request_failed
+https://nodebuf.com/files/public/cmv6mqf5eccpjoh5w304wk1u5/download	request_failed
+https://vless.lrdxw.club/5dc15e15-f285-4a9d-959b-0e4fbdd77b63	request_failed
+https://sub.curtinp.cc.cd/c/?token=8b582d7006648e5e2b3f7e61c92b0cd4	request_failed
