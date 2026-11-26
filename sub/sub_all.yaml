@@ -16,7 +16,6 @@ clash订阅:
 - https://anaer.github.io/Sub/clash.yaml
 - https://blog.ermao.net/sub/clash/ermao.net
 - https://blog.ermao.net/sub/reachable/clash/ermao.net
-- https://blog.ermao.net/sub/unreachable/clash/ermao.net
 - https://c2-5.66666.bond/c/K4ySQyZ
 - https://cdn.jsdelivr.net/gh/share-daily/node/clash.yaml
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
@@ -162,7 +161,8 @@ clash订阅:
 - https://nodebuf.com/files/public/cmvrcltpf049zy95wwwzlckvx/download
 - https://nodebuf.com/node-sub/041154ee522493ba251ae82ccdba8ae8b88345c843866047333f7a41690da792/mihomo
 - https://nodebuf.com/node-sub/40bb2135aafb4479b8634e442f7ddc5b14bb594c87018f78fcd29752945ea811/mihomo
-- https://nodebuf.com/node-sub/9762806cba87b14dd58daf59fec9afa61462a471ce1851785a77910f2687db2b/mihomo
+- https://nodebuf.com/node-sub/ae41fafc12c289f235df5ffcab496d7165d77adb279cd2cf8fa820f70b3af984/mihomo
+- https://nodebuf.com/node-sub/d422c3e481b6fa662d215afddb285c17ae04a503f197bce696b6be38afcc6b6f/mihomo
 - https://paste.rs/BGjpG
 - https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/clash.yaml
 - https://raw.githubusercontent.com/69z1zfw2fly/fly/main/2.yaml
@@ -219,7 +219,6 @@ clash订阅:
 - https://v2clash.blog/Link/20260828-clash.yaml
 - https://www.ermao.net/sub/clash/ermao.net
 - https://www.ermao.net/sub/reachable/clash/ermao.net
-- https://www.ermao.net/sub/unreachable/clash/ermao.net
 - https://www.ermao.net/sub/untested/clash/ermao.net
 - https://xjj.zzxi.de/79lsrb40mote8vb49k4zrex3gixex2o7
 - https://xjj.zzxi.de/rr43zmvyrfxej251vub1i3wawkpyoapf
@@ -257,12 +256,10 @@ v2订阅:
 - https://ii.d4p.ccwu.cc/x/9fB9loO
 - https://jj.d6p.ccwu.cc/x/cFHXI6L
 - https://jsjc.cfd/api/v1/client/subscribe?token=06a911477d3b0db499f510c7e72d4840
-- https://jsjc.cfd/api/v1/client/subscribe?token=2dc6b0bee7629dde3e94c40b23e546cc
 - https://jsjc.cfd/api/v1/client/subscribe?token=5650a53d21ac0b67e2c3e487312f01c6
 - https://leviko-teraidery.ir:443/sub/AA3qrlyr6o4UuaqZwzXRB12JhRBAr0QBF3Xl
 - https://ly.ba000.cc/s/d194066d5d4e228a21aa7257554a69e9
 - https://lydy1.lydyylch.com:8888/liyun/daf91edd7bf91a541d7abdce4f5db191
-- https://nano.nachoneko.cn/api/v1/client/subscribe?token=8302339a3bcd3e745beee243cc726e9a&amp;flag=shadowrocket
 - https://niaodi.top/niao?token=8cf28a28d8ed739b8e9bc5489a73a75b
 - https://nodebuf.com/files/public/cmpzg19s4026ibe5wylkwbma9/download
 - https://nodebuf.com/files/public/cmqdqfvld16ig0q5w9dsrz14r/download
@@ -439,13 +436,13 @@ v2订阅:
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66
 - 可用流量:100.0 GB                    https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66
 - 可用流量:101373.0 GB                    https://sub.femboy.us.ci/?url=freenodes
-- 可用流量:1129.29 GB                    https://ys.jiedianxielou.workers.dev:443
+- 可用流量:1456.4 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 - 可用流量:198.73 GB                    https://update.glados-config.com/mihomo/684175/46bf72f/70852/glados.yaml
 - 可用流量:2048.0 GB                    https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-- 可用流量:2049.18 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- 可用流量:26.18 GB                    https://sub.tianjiyun.org/s/049eede8f2188d120471bf871c5f80c8#CF-edge.nianyi.de5.net:443
-- 可用流量:2836658.92 GB                    https://leviko-teraidery.ir:443/sub/AA3qrlyr6o4UuaqZwzXRB12JhRBAr0QBF3Xl
-- 可用流量:42.17 GB                    https://sub.tianjiyun.org/s/a8626cc3681866de101634452d3e3e89
+- 可用流量:2056.33 GB                    https://ys.jiedianxielou.workers.dev:443
+- 可用流量:2156615.21 GB                    https://leviko-teraidery.ir:443/sub/AA3qrlyr6o4UuaqZwzXRB12JhRBAr0QBF3Xl
+- 可用流量:25.83 GB                    https://sub.tianjiyun.org/s/049eede8f2188d120471bf871c5f80c8#CF-edge.nianyi.de5.net:443
+- 可用流量:41.53 GB                    https://sub.tianjiyun.org/s/a8626cc3681866de101634452d3e3e89
 机场订阅:
 - https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 - https://leviko-teraidery.ir:443/sub/AA3qrlyr6o4UuaqZwzXRB12JhRBAr0QBF3Xl

@@ -13100,3 +13100,23 @@ https://github.com/thtbee/nectarlink/releases/tag/v0.1.4	http_404
 === 2026-11-26 08:02:05 - 失效订阅 (2 个) ===
 https://view-link.cx/oE79jT73X5i	http_404
 https://v1.mk/mafCdlA	http_502
+
+=== 2026-11-26 21:37:58 - 失效订阅 (15 个) ===
+https://feed.itsfoss.com/link/24361/17540145/kwi-terminal	http_403
+https://jikun.zmxoo.xyz/subapi?token=free_8xK4mN9pQ2wR7vL&amp;placeholder=maozedongdashabi250	http_403
+http://%E5%AE%98%E7%BD%91%EF%BC%9Aluwu.lovechina.life/	request_failed
+https://luwu.lovechina.life/sub/188f1bb177154ad8a561de9f25f71cfd	http_403
+https://luwu.lovechina.life/sub/ef9a59279970473bb1a2f5f4bdd2b9bc	http_403
+https://luwu.lovechina.life/sub/188f1bb177154ad8a561de9f25f71cfd#vless	http_403
+https://luwu.lovechina.life/sub/ef9a59279970473bb1a2f5f4bdd2b9bc#vless	http_403
+https://nodebuf.com/node-sub/9762806cba87b14dd58daf59fec9afa61462a471ce1851785a77910f2687db2b/singbox	http_410
+https://nodebuf.com/node-sub/9762806cba87b14dd58daf59fec9afa61462a471ce1851785a77910f2687db2b/mihomo	http_410
+https://nodebuf.com/node-sub/9762806cba87b14dd58daf59fec9afa61462a471ce1851785a77910f2687db2b/v2ray	http_410
+https://nano.nachoneko.cn/api/v1/client/subscribe?token=8302339a3bcd3e745beee243cc726e9a&amp;flag=shadowrocket	request_failed
+https://nano.nachoneko.cn/api/v1/client/subscribe?token=8302339a3bcd3e745beee243cc726e9a	request_failed
+https://www.antikyc.net	request_failed
+https://www.antikyc.net/	request_failed
+http://%3D%3D@152.53.1.57:8388/#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88	request_failed
+
+=== 2026-11-26 21:38:22 - 失效订阅 (1 个) ===
+https://jsjc.cfd/api/v1/client/subscribe?token=2dc6b0bee7629dde3e94c40b23e546cc	http_403
