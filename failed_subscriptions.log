@@ -13091,3 +13091,12 @@ https://qwertyuiop.clydslove.shop/cly/user/token/d4b4ea290ed385b5c5be6b5eeeed6e6
 https://qwertyuiop.clydslove.shop/cly/user/token/6767358367cda81c9106fa002fc4f83f	http_403
 https://login.fugui.lol/#/register?code=AqrnKMEQ	http_403
 https://185.140.209.235:443?sni=482c8436a1f7c908b48a1757abb5dd79-ce85c45206570905.apache-iv.com#%F0%9F%88%B81@oneclickvpnkeys	request_failed
+
+=== 2026-11-26 08:01:40 - 失效订阅 (3 个) ===
+https://apps.apple.com/app/id1277179284	request_failed
+https://link123.52pokemon66.cc/api/v1/client/subscribe?token=a43490c931bf8915adefcb8a8ad35ad7	http_403
+https://github.com/thtbee/nectarlink/releases/tag/v0.1.4	http_404
+
+=== 2026-11-26 08:02:05 - 失效订阅 (2 个) ===
+https://view-link.cx/oE79jT73X5i	http_404
+https://v1.mk/mafCdlA	http_502
