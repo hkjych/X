@@ -13120,3 +13120,20 @@ http://%3D%3D@152.53.1.57:8388/#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%
 
 === 2026-11-26 21:38:22 - 失效订阅 (1 个) ===
 https://jsjc.cfd/api/v1/client/subscribe?token=2dc6b0bee7629dde3e94c40b23e546cc	http_403
+
+=== 2026-11-27 08:22:04 - 失效订阅 (15 个) ===
+https://feed.itsfoss.com/link/24361/17540275/pop-os-26-04-release	http_403
+https://45.137.180.144/L?ZG93bmxvYWRDb25maWcuanMvNmY2MDY1NTU5OTJiMTViMDY1MDEwNjk0OTczYjQzYjY/dGltZXN0YW1wPTE2MDAwOQ==	request_failed
+https://link123.52pokemon66.cc/api/v1/client/subscribe?token=7d5379dc0ca6bf13893ce9275a7fc5a6	http_403
+https://nodebuf.com/node-sub/d422c3e481b6fa662d215afddb285c17ae04a503f197bce696b6be38afcc6b6f/v2ray	http_410
+https://nodebuf.com/node-sub/d422c3e481b6fa662d215afddb285c17ae04a503f197bce696b6be38afcc6b6f/mihomo	http_410
+https://nodebuf.com/node-sub/d422c3e481b6fa662d215afddb285c17ae04a503f197bce696b6be38afcc6b6f/singbox	http_410
+https://tempmailg.com/	http_403
+https://generator.email/	http_503
+https://emailfake.com	http_503
+https://tememail.org/	http_403
+https://generator.email	http_503
+https://emailfake.com/	http_503
+https://temporarymail.app/	request_failed
+https://github.com/customer-stories	http_500
+https://opengraph.githubassets.com/9fb5458408da0ddf110250799699944f8860d19b305decab42d7ddc644c9c445/ermaozi/get_subscribe	http_429
