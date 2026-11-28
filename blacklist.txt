@@ -12113,3 +12113,7 @@ https://api.v1.mk/sub?target=clash&amp;url=https%3A%2F%2Fsub.fugui.lol%2Fdafudag
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitted-By-Protocol/ss.txt
 https://v1.mk/cUHZ56b
 https://jsjc.cfd/api/v1/client/subscribe?token=5650a53d21ac0b67e2c3e487312f01c6
+https://cf.frnhk.xyz/s/8dee2d9040fdbc8dc190307d033e58d1
+https://api.xmancdn.net/osubscribe.php?token2=y4vnzvry-5665b072969uacptlr
+https://tohealvra.com/privacy?dmn=merlinblog.xyz&testId=28
+https://tohealvra.com/terms?dmn=merlinblog.xyz&testId=28

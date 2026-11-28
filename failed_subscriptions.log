@@ -13153,3 +13153,9 @@ https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Splitt
 === 2026-11-27 21:33:28 - 失效订阅 (2 个) ===
 https://v1.mk/cUHZ56b	request_failed
 https://jsjc.cfd/api/v1/client/subscribe?token=5650a53d21ac0b67e2c3e487312f01c6	http_403
+
+=== 2026-11-28 07:56:54 - 失效订阅 (4 个) ===
+https://cf.frnhk.xyz/s/8dee2d9040fdbc8dc190307d033e58d1	http_403
+https://api.xmancdn.net/osubscribe.php?token2=y4vnzvry-5665b072969uacptlr	http_403
+https://tohealvra.com/privacy?dmn=merlinblog.xyz&testId=28	http_401
+https://tohealvra.com/terms?dmn=merlinblog.xyz&testId=28	http_401
